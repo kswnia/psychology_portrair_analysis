@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="![cover](cover.png)" width="600"/>
+  <img src="cover.png" width="600"/>
 </p>
+
 # Trust Compass  
 ### The missing lens in high-stakes human decisions
 
