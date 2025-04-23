@@ -57,7 +57,7 @@ There’s no clutter. No unnecessary charts.
 Just signal. Just insight. Just the truth, surfaced gently.
 
 ---
-UI prototype
+UI screens
 
 
 ![1output](https://github.com/user-attachments/assets/2cc79574-8fd9-4918-862f-b289dc3b6ddb)
