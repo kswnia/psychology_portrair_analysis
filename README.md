@@ -78,7 +78,9 @@ UI screens
    - Possible biases/traumas
    - Tendencies of psyche and context around.
 4. You get a clean, visual **Founder Profile** with:
-   -for now,only psychological portrait example output here --> ![outputs.md](outputs.md)
+   
+   - for now its only psychological portrait, example output here --> ![outputs.md](outputs.md)
+     
    coming in a future:
    - Trust Lens summary
    - Emotional timeline
@@ -109,16 +111,6 @@ It works because you still make the call.
 
 ---
 
-## Current status
-
-We’re in private MVP mode.  
-Working closely with a handful of early-stage investors to refine the signal and the experience.
-
-Want access or interested in details?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kseniya-hudacheuskaya-0037b8264/)
-
----
-
 ## Built with care
 
 - React + Tailwind (UI)
@@ -133,15 +125,19 @@ Want access or interested in details?
 We don’t build features. We extract essence.
 
 If you’re curious how we think about product, we’ve included our design algorithm as a mental model:  
-→ [`mental_model.mmd`](./mental_model.mmd)
+→ [mental_model.mmd](mental_model.md)
 
 It shows how every decision loops back to one question:  
-**“What should this feel like for the user?”**
+**“What should this feel like for the user?”**\
+
+
+## Current status
+
+We’re in private MVP mode.  
+Working closely with a handful of early-stage investors to refine the signal and the experience.
+
+Want access or interested in details?  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kseniya-hudacheuskaya-0037b8264/)
 
 ---
-
-## License
-
-This product is proprietary and under active development.  
-For partnerships or inquiries, reach out to `legal@trustcompass.ai`.
 
