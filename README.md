@@ -57,6 +57,14 @@ There’s no clutter. No unnecessary charts.
 Just signal. Just insight. Just the truth, surfaced gently.
 
 ---
+UI prototype
+
+
+![1output](https://github.com/user-attachments/assets/2cc79574-8fd9-4918-862f-b289dc3b6ddb)
+![2output](https://github.com/user-attachments/assets/e4d7cdc1-f570-49cf-ba7b-ee22b2950780)
+![output1](https://github.com/user-attachments/assets/5dc93133-806d-4667-b2ca-86a7c1c4a64b)
+
+ watch full outputs: [outputs.md](outputs.md)
 
 ## How it works
 
