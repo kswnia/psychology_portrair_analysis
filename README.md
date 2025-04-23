@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="![cover](cover.png)" width="600"/>
+</p>
 # Trust Compass  
 ### The missing lens in high-stakes human decisions
 
@@ -63,7 +66,11 @@ Just signal. Just insight. Just the truth, surfaced gently.
    - Deflection patterns
    - Linguistic drift
    - Accountability signals
+   - Possible biases/traumas
+   - Tendencies of psyche and context around.
 4. You get a clean, visual **Founder Profile** with:
+   -for now,only psychological portrait example output here --> ![outputs.md](outputs.md)
+   coming in a future:
    - Trust Lens summary
    - Emotional timeline
    - Key moments and quotes
@@ -98,9 +105,8 @@ It works because you still make the call.
 We’re in private MVP mode.  
 Working closely with a handful of early-stage investors to refine the signal and the experience.
 
-Want access?  
-→ [Join the beta waitlist](https://trustcompass.ai)  
-→ Or email us: `founders@trustcompass.ai`
+Want access or interested in details?  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kseniya-hudacheuskaya-0037b8264/)
 
 ---
 
